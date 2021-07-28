@@ -1,5 +1,5 @@
 # GEE_Downloader
-A Simple CL tool to download Google Earth Engine imagery 
+A simple CL tool to download Google Earth Engine imagery and group images by dates. 
 
 ## Requirements:
 ```
