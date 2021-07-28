@@ -11,9 +11,9 @@ dateutil
 
 ## Usage:
 ```
-geedownload.py [-h] [--collections COLLECTIONS] [--out_dir OUT_DIR]
-                    [--start_date START_DATE] [--end_date END_DATE]
-                    [--aoi_path AOI_PATH] [--scale SCALE] [--crs CRS]
+geedownloader.py [-h] [--collections COLLECTIONS] [--out_dir OUT_DIR]
+                      [--start_date START_DATE] [--end_date END_DATE]
+                      [--aoi_path AOI_PATH] [--scale SCALE] [--crs CRS]
 ```
 * collections (str)-  json file of the GEE collections to download ('name': 'collection id' format)
 * out_dir (str)-      output directory
