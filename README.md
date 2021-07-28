@@ -8,6 +8,7 @@ geemap
 datetime
 dateutil
 ```
+_Note:_ Google Earth Engine needs to be _authenticated_, which can be done by using the terminal command ```earthengine authenticate``` and following the instructions.
 
 ## Usage:
 ```
