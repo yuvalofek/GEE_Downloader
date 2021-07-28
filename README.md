@@ -12,9 +12,9 @@ _Note:_ Google Earth Engine needs to be _authenticated_, which can be done by us
 
 ## Usage:
 ```
-geedownloader.py [-h] [--collections COLLECTIONS] [--out_dir OUT_DIR]
-                      [--start_date START_DATE] [--end_date END_DATE]
-                      [--aoi_path AOI_PATH] [--scale SCALE] [--crs CRS]
+python3 geedownloader.py [-h] [--collections COLLECTIONS] [--out_dir OUT_DIR]
+                         [--start_date START_DATE] [--end_date END_DATE]
+                         [--aoi_path AOI_PATH] [--scale SCALE] [--crs CRS]
 ```
 * collections (str)-  json file of the GEE collections to download ('name': 'collection id' format)
 * out_dir (str)-      output directory
